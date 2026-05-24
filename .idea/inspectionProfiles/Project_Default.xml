@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="ui-sref" />
+            <item index="1" class="java.lang.String" itemvalue="ng-required" />
+            <item index="2" class="java.lang.String" itemvalue="ng-disabled" />
+            <item index="3" class="java.lang.String" itemvalue="name" />
+            <item index="4" class="java.lang.String" itemvalue="ng-model" />
+            <item index="5" class="java.lang.String" itemvalue="label" />
+            <item index="6" class="java.lang.String" itemvalue="ativos" />
+            <item index="7" class="java.lang.String" itemvalue="tamanho" />
+            <item index="8" class="java.lang.String" itemvalue="lista-acoes" />
+            <item index="9" class="java.lang.String" itemvalue="layout" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="acoes" />
+            <item index="7" class="java.lang.String" itemvalue="botao" />
+            <item index="8" class="java.lang.String" itemvalue="caminho" />
+            <item index="9" class="java.lang.String" itemvalue="titulo" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
